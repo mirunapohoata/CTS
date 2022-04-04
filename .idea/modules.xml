@@ -7,6 +7,9 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar6/Seminar6.iml" filepath="$PROJECT_DIR$/Seminar6/Seminar6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6_2/Seminar6_2.iml" filepath="$PROJECT_DIR$/Seminar6_2/Seminar6_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6_FactoryMethod/Seminar6_FactoryMethod.iml" filepath="$PROJECT_DIR$/Seminar6_FactoryMethod/Seminar6_FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar7_Builder/Seminar7_Builder.iml" filepath="$PROJECT_DIR$/Seminar7_Builder/Seminar7_Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar7_Builder2/Seminar7_Builder2.iml" filepath="$PROJECT_DIR$/Seminar7_Builder2/Seminar7_Builder2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar7_Prototype/Seminar7_Prototype.iml" filepath="$PROJECT_DIR$/Seminar7_Prototype/Seminar7_Prototype.iml" />
     </modules>
   </component>
 </project>
