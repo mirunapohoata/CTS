@@ -10,6 +10,9 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar7_Builder/Seminar7_Builder.iml" filepath="$PROJECT_DIR$/Seminar7_Builder/Seminar7_Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar7_Builder2/Seminar7_Builder2.iml" filepath="$PROJECT_DIR$/Seminar7_Builder2/Seminar7_Builder2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar7_Prototype/Seminar7_Prototype.iml" filepath="$PROJECT_DIR$/Seminar7_Prototype/Seminar7_Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar8_Flyweight/Seminar8_Flyweight.iml" filepath="$PROJECT_DIR$/Seminar8_Flyweight/Seminar8_Flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar8_Observer/Seminar8_Observer.iml" filepath="$PROJECT_DIR$/Seminar8_Observer/Seminar8_Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar8_Strategy/Seminar8_Strategy.iml" filepath="$PROJECT_DIR$/Seminar8_Strategy/Seminar8_Strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/SeminarRecuperare_AdapterObiecte/SeminarRecuperare_AdapterObiecte.iml" filepath="$PROJECT_DIR$/SeminarRecuperare_AdapterObiecte/SeminarRecuperare_AdapterObiecte.iml" />
       <module fileurl="file://$PROJECT_DIR$/SeminarRecuperare_Facade/SeminarRecuperare_Facade.iml" filepath="$PROJECT_DIR$/SeminarRecuperare_Facade/SeminarRecuperare_Facade.iml" />
     </modules>
