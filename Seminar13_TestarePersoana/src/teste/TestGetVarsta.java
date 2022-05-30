@@ -1,6 +1,6 @@
 package teste;
 
-import clase.Persoana;
+import clase.persoana.Persoana;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

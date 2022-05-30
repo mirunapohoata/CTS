@@ -1,4 +1,4 @@
-package clase;
+package clase.persoana;
 
 public interface IPersoana {
 	public String getSex();

@@ -1,6 +1,6 @@
-package clase;
+package clase.persoana;
 
-import clase.IPersoana;
+import clase.persoana.IPersoana;
 import teste.CNPIncorect;
 
 import java.util.Calendar;
